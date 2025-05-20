@@ -1,5 +1,3 @@
-## Obtaining
-
 The Composter is a single-block [Basic Machine](https://github.com/Slimefun/Slimefun4/wiki/Basic-Machines).
 
 ## Usage
