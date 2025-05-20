@@ -15,3 +15,21 @@ You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/
 The Compressor is used to compress various item, check out the Compressor in the Slimefun Guide in-game for more recipes.
 
 To use the compressor, you need to put the items you want compressed in the dispenser and when you right click on the fence, if there is a viable conversion possible, it'll convert your items and output them.
+
+## Recipes
+
+<center>
+
+| Input                    | Output            |
+| ------------------------ | ----------------- |
+| 4 Stone Chunk            | Cobblestone       |
+| 8 Flint                  | Gravel            |
+| 4 Charcoal               | Coal              |
+| 4 Charcoal Block         | Coal Block        |
+| 8 Coal                   | Carbon            |
+| 4 Carbon                 | Compressed Carbon |
+| 8 Block of Coal          | 9 Carbon          |
+| 8 Steel Ingot            | Steel Plate       |
+| 8 Reinforced Alloy Ingot | Reinforced Plate  |
+
+</center>
